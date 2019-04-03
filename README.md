@@ -12,27 +12,21 @@ ArmSym is:
 
 Welcome! 
 
-###### ArmSym is work in progress - new features and tutorials will be added over time!
-
+# Note for reviewers
+###### This is a lighter readme that hides the information of the authors. 
 
 
 ## ArmSym
 
 #### What is ArmSym?
 
-ArmSym,  stylized for 'arm simulation', is a Unity project for the HTC Vive.  We have created a simulation of the 7 degrees-of-freedom [Barrett WAM robotic arm](http://brain-computer-interfaces.net/) that features a trial-based system, a data management pipeline, and a user interface. The project is customizable, and permits interaction with biosignals via [Lab Streaming Layer](https://github.com/sccn/labstreaminglayer).  We tested ArmSym in one perceptual experiment contextualized in the domain of upper-limb prostheses, which we describe in a research paper **[Link to Preprint when available]**.
+ArmSym,  stylized for 'arm simulation', is a Unity project for the HTC Vive.  We have created a simulation of the 7 degrees-of-freedom Barrett WAM robotic arm that features a trial-based system, a data management pipeline, and a user interface. The project is customizable, and permits interaction with biosignals via [Lab Streaming Layer](https://github.com/sccn/labstreaminglayer). 
 
 #### Who can use ArmSym?
 
 We release the code with the aim of helping researchers design experiments in which a human controls and interacts with a robotic arm. We target scientists who work on high-level upper limb prosthesis control or assistive robotic manipulators mounted on wheelchairs. We do not intend ArmSym's as a clinical tool. 
 
 We also believe ArmSym could be used as a learning or demonstrative tool for robot learning and human-robot interaction communities.  
-
-#### Who is behind the project?
-
-ArmSym was developed at the [Brain-Computer Interfaces Group](http://brain-computer-interfaces.net/)  at the Max Planck Institute for Intelligent Systems. The Unity Project was developed by  [M.Sc. Samuel Bustamante](https://www.is.mpg.de/person/sbustamante) and [Dr. Vinay Jayaram](https://ei.is.tuebingen.mpg.de/~vjayaram) under the supervision of [Prof. Dr. Moritz Grosse-Wentrup](https://ei.is.tuebingen.mpg.de/people/moritzgw). 
-
-ArmSym was originally presented in Samuel's master's thesis, "A virtual reality environment for experiments in assistive robotics and neural interfaces".  
 
 #### The box an blocks test
 
